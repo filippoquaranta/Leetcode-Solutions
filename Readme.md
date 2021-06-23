@@ -1,4 +1,5 @@
 
+
 <p align="center">
     <img width="150" height="auto" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="Google Drive Logo" />
 </p>
@@ -8,6 +9,11 @@
 **Leetcode** is a website where people–mostly software engineers–practice their coding skills. There are 800+ questions (and growing), each with multiple solutions. Questions are ranked by level of difficulty: easy, medium, and hard. Similar websites include HackerRank, Topcoder, InterviewBit, among others.
 
  <img src="https://i.ibb.co/SvKsBFF/screely-1624464192696.png" />
+
+### Solutions 
+
+ - [First Missing Positive](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/First%20Missing%20Positive)
+ - [Regular Expression Matching](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Regular%20Expression%20Matching)
 
 
 ### Contributing
