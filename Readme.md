@@ -15,6 +15,18 @@
  - [First Missing Positive](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/First%20Missing%20Positive)
  - [Regular Expression Matching](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Regular%20Expression%20Matching)
 
+### Folder Structure 
+
+```bash 
+📦  Leetcode-Solutions-main
+├── Readme.md
+├── First Missing Positive
+│   ├── Readme.md
+│   └── solution.js
+└── Regular Expression Matching
+    ├── Readme.md
+    └── solution.js
+```
 
 ### Contributing
 
