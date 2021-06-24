@@ -24,6 +24,9 @@
 ├── First Missing Positive
 │   ├── Readme.md
 │   └── solution.js
+├── Trapping Rain Water
+│   ├── Readme.md
+│   └── solution.js
 └── Regular Expression Matching
     ├── Readme.md
     └── solution.js
