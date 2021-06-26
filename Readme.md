@@ -1,3 +1,9 @@
+![Contributors](https://shields.io/badge/Contributor-Suhail%20Kakar-green?style=for-the-badge)
+![Contributors](https://shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Contributors](https://shields.io/badge/Language-JavaScript-orange?style=for-the-badge)
+![Contributors](https://shields.io/badge/Issues-0%20Open-inactive?logo=mit&style=for-the-badge)
+![Contributors](https://shields.io/badge/Twitter-suhailkakar-blue?style=for-the-badge)
+
 
 
 <p align="center">
