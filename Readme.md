@@ -15,6 +15,7 @@
  - [First Missing Positive](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/First%20Missing%20Positive)
  - [Regular Expression Matching](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Regular%20Expression%20Matching)
  - [Trapping Rain Water](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Trapping%20Rain%20Water)
+ - [Wildcard Matching](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Wildcard%20Matching)
 
 ### Folder Structure 
 
