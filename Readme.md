@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Contributors](https://shields.io/badge/Contributor-Suhail%20Kakar-green?style=for-the-badge)
-![Contributors](https://shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Contributors](https://shields.io/badge/Problems-5-yellow?style=for-the-badge)
 ![Contributors](https://shields.io/badge/Language-JavaScript-orange?style=for-the-badge)
 ![Contributors](https://shields.io/badge/Twitter-suhailkakar-blue?style=for-the-badge)
 
