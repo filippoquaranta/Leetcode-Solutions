@@ -43,6 +43,9 @@
 ├── Valid Number
 │   ├── Readme.md
 │   └── solution.js
+├── Longest Common Prefix
+│   ├── Readme.md
+│   └── solution.js
 └── Regular Expression Matching
     ├── Readme.md
     └── solution.js
