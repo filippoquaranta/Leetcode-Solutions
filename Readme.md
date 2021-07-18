@@ -24,6 +24,7 @@
 - [Trapping Rain Water](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Trapping%20Rain%20Water)
 - [Wildcard Matching](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Wildcard%20Matching)
 - [Valid Number](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Valid%20Number)
+- [Longest Common Prefix](https://github.com/suhailkakar/Leetcode-Solutions/tree/main/Longest%20Common%20Prefix)
 
 ### Folder Structure
 
